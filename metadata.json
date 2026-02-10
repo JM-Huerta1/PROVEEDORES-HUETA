@@ -1,0 +1,7 @@
+{
+  "name": "Huerta Pago - Sistema de Gestión de Proveedores",
+  "description": "Una plataforma sofisticada para la gestión de órdenes de pago, facturación y cuenta corriente para proveedores de Huerta Coworking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
